@@ -30,7 +30,7 @@ You can get the source code from the latest release version.
 ### Web-based system
 Clone or download this repository:
 ```bash
-git clone [git@github.com:poloclub/wizmap.git](https://github.com/DKMap-VIS/DKMap.git)
+git clone https://github.com/DKMap-VIS/DKMap.git
 ```
 Install the dependencies (in the Frontend folder):
 ```bash
