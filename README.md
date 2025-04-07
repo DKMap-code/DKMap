@@ -10,6 +10,10 @@ A novel DR visualization technique for interactive exploration of multimodal emb
 
 </table>
 
+## What is DKMap about?
+
+
+## Highlights
 <table>
   <tr>
     <td colspan="3">✨ Scalable to <strong>billions</strong> of <strong>multimodal embedding</strong> point</td>
@@ -29,3 +33,8 @@ refinement</td>
   </tr>
   <tr></tr>
 </table>
+
+## Quick Start
+
+## Try It Out
+
