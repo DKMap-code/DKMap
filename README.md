@@ -25,7 +25,7 @@ refinement
 
 
 ## Quick Start
-You can get the source code from the latest release version.
+You can get all the source code from the latest release version.
 
 ### Web-based system
 Clone or download this repository:
