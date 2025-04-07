@@ -25,6 +25,7 @@ refinement
 
 
 ## Quick Start
+You can get the source code from the latest release version.
 
-## Try It Out
-
+## 📌Try It Out
+For a live web demo, visit:
